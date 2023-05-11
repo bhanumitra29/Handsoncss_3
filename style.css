@@ -1,0 +1,179 @@
+body{
+    background-color: #767676;
+}
+
+
+.head1{
+    height: 160px;
+    width: 280px;
+    margin: auto;
+    padding: 0px 120px 25px 120px;
+}
+
+.head{
+    border: 6px solid red;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 8px 8px 2px #762673;
+
+}
+
+#heada{
+    text-align: center;
+    line-height: 50px;
+    text-shadow: 2px 2px 3px #992A4B;
+    font-style: italic;
+    color: #992A4B;
+}
+
+
+#main{
+    border: 7px solid #32711E;
+    height: 580px;
+}
+
+
+.first{
+    position: relative;
+}
+
+.second{
+    position: relative;
+}
+
+.head2{
+    height: 220px;
+    width: 210px;
+    padding: 0px 5px 10px 5px;
+    
+
+}
+
+
+#headb{
+    text-align: center;
+    line-height: 40px;
+    text-shadow: 2px 2px 4px #3D1A3D;
+    color: #3D1A3D;
+    font-weight: bolder;
+}
+
+.head3{
+    height: 160px;
+    width: 230px;
+    padding: 45px 0px 0px 0px;
+    text-align: center;
+    position: absolute;
+    right: 80px;
+    top: 0;
+   
+}
+
+
+.head4{
+    height: 220px;
+    width: 230px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 80px;
+    
+}
+
+.headc{
+    color: #3D1A3D;
+    font-weight: bolder;
+    text-shadow: 2px 2px 4px #3D1A3D;
+}
+
+.button{
+    border-radius: 25px;
+    background-color: red;
+    color: black;
+    font-weight: bolder;
+}
+
+.head5{
+    height: 220px;
+    width: 230px;
+    text-align: center;
+    position: absolute;
+    right: 80px;
+    top: 80px;
+   
+}
+
+.fixed{
+    display: flex;
+    
+}
+
+.side1{
+    color: #792903;
+    font-size: large;
+    font-style: italic;
+    
+}
+
+.side2{
+    color: #792903;
+    font-style: italic;
+    
+}
+
+.fixedp{
+    border: 6px solid red;
+    background-color: #A0F33C;
+    border-radius: 10px;
+    box-shadow: 8px 8px 2px #762673;
+    height: 45px;
+    width: 380px;
+    
+    gap: 20px;
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+    top: 620px;
+    left: 550px;
+    z-index: 1;
+}
+
+.items{
+    background-color: #EDE280;
+    border: 2px solid grey;
+    text-align: center;
+    font-style: italic;
+}
+
+.itemsp{
+    background-color: #32761B;
+    border: 7px solid #752774;
+    text-align: center;
+    height: 590px;
+    width: 780px;
+    margin: auto;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.items1{
+    height: 250px;
+    width: 380px;
+    margin-left: 5px;
+}
+
+
+.items2{
+    height: 250px;
+    width: 380px;
+    position: absolute;
+    top: 68px;
+    right: 5px;
+    
+}
+
+.items3{
+    height: 250px;
+    width: 780px;
+    position: absolute;
+    top: 330px;
+}
